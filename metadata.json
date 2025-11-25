@@ -1,0 +1,5 @@
+{
+  "name": "Mystic Tarot AI",
+  "description": "An immersive AI-powered Tarot reading application featuring interactive card drawing, multiple spreads, and deep interpretations powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
